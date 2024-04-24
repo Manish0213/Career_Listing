@@ -1,0 +1,27 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.card {
+    width: 400px;
+    color: white;
+    background: black;
+    border-radius: 5px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 25px;
+}
+
+.card-location {
+    margin-left: 20px;
+}
+
+.card button {
+    width: 100px;
+    padding: 10px;
+    border-radius: 5px;
+    background: transparent;
+    color: white;
+}
